@@ -88,9 +88,57 @@
     "sample": "/images/services/noisegopher.jpg"
   },
   {
+    "url": "http://glitch.nothingissacred.org/grayscale",
+    "description": "grayscale",
+    "repository": "https://github.com/revisitors/glitcher",
+    "sample": "/images/services/grayscale.gif"
+  },
+  {
+    "url": "http://glitch.nothingissacred.org/smear",
+    "description": "smear",
+    "repository": "https://github.com/revisitors/glitcher",
+    "sample": "/images/services/smear.gif"
+  },
+  {
+    "url": "http://glitch.nothingissacred.org/smearchannel",
+    "description": "smearchannel",
+    "repository": "https://github.com/revisitors/glitcher",
+    "sample": "/images/services/smearchannel.gif"
+  },
+  {
+    "url": "http://glitch.nothingissacred.org/pixelshift",
+    "description": "pixelshift",
+    "repository": "https://github.com/revisitors/glitcher",
+    "sample": "/images/services/pixelshift.gif"
+  },
+  {
+    "url": "http://glitch.nothingissacred.org/rowslice",
+    "description": "rowslice",
+    "repository": "https://github.com/revisitors/glitcher",
+    "sample": "/images/services/rowslice.gif"
+  },
+  {
+    "url": "http://glitch.nothingissacred.org/shadow",
+    "description": "shadow",
+    "repository": "https://github.com/revisitors/glitcher",
+    "sample": "/images/services/shadow.gif"
+  },
+  {
+    "url": "http://glitch.nothingissacred.org/aniglitch",
+    "description": "randomized glitch animation",
+    "repository": "https://github.com/revisitors/glitcher",
+    "sample": "/images/services/aniglitch.gif"
+  },
+  {
     "url": "http://downsample.joefriedl.net",
     "description" : "crappy jpeg",
     "repository": "https://github.com/grampajoe/revisit-downsample",
     "sample": "/images/services/downsample.jpg"
+  },
+  {
+    "url": "http://meatcub.es:8001",
+    "description": "random smiley face",
+    "repository": "https://github.com/revisitors/revisit-lysergix-service",
+    "sample": "/images/services/smiley.png"
   }
 ]
